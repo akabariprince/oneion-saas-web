@@ -1,1 +1,1 @@
-{ "name": "ione-webapp", "version": "1.0.0" }
+{"name":"ione-webapp","version":"1.0.0","dependencies":{"simple-git":"^3.28.0"}}
